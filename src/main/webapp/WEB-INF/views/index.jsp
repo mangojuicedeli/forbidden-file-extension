@@ -1,3 +1,6 @@
 <%@ include file="./header.jsp"%>
-index.jsp
+
+<input type="checkbox" id="exe" value="exe">
+<label for="exe">exe</label>
+
 <%@ include file="./footer.jsp"%>
